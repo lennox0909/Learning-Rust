@@ -13,3 +13,8 @@
 
 2. [**The Rust Programming Language**](https://doc.rust-lang.org/book/)
     - [**Official** book GitHub](https://github.com/rust-lang/book)
+
+## Getting Started
+
+1. [macOS + VSCode](./my-notes/13-macOS%20+%20VS%20Code%20建置%20Rust%20開發環境完整指南.md)
+2. [Windows + VSCode](./my-notes/12-Windows%2011%20+%20VS%20Code%20建置%20Rust%20開發環境完整指南.md)
